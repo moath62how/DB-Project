@@ -17,7 +17,6 @@ This is how to insert data
 
 
 !!INSERT INTO Transactions 
-!!INSERT INTO Transactions 
 !!VALUES (seq_transactions.nextval,'ITEM ID HERE','SELLER ID HERE','PAYER ID HERE','DATE HERE','TIME HERE','AMOUNT OF THE ITEMS','THE PRICE');
 
 !!INSERT INTO EMPLOYEES  
